@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main_background">#122c34</color>
+    <color name="main_text">#4ea5d9</color>
+    <color name="note_item_back">#6a9b9b</color>
 </resources>
