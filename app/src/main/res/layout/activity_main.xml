@@ -25,6 +25,8 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginTop="10dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="vertical"
         android:layout_marginHorizontal="5dp"
         tools:listitem="@layout/note_enabled"
         app:layout_constraintBottom_toBottomOf="parent"

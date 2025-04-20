@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     app:cardCornerRadius="20dp"
-    app:cardElevation="5dp"
+    app:cardElevation="1dp"
     app:cardUseCompatPadding="true">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:background="@color/note_item_back">
+        android:background="@color/note_dis_item_back">
 
         <TextView
             android:id="@+id/tv_note_name"

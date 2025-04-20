@@ -1,6 +1,6 @@
 package com.example.noteski20.domain
 
-data class NoticeItem(
+data class NoteItem(
     val name: String,
     val description: String,
     val dateTime: String,
